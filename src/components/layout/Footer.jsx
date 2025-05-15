@@ -10,7 +10,7 @@ function Footer() {
                 <li><FaInstagram/></li>
                 <li><FaLinkedin/></li>
             </ul>
-            <p className={styles.copy_right}><span>Projectify</span> &copy; 2024</p>
+            <p className={styles.copy_right}><span>Projectify</span> &copy; 2025</p>
         </footer>
     )
 }

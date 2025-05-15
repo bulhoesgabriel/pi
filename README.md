@@ -1,4 +1,4 @@
-# Projectfy
+# Projectify
 ## Gerenciador de Projetos - Aplicativo para gestão de projetos desenvolvido com React.js & Node.js
 
 > Atividade avaliativa (Projeto Integrador) do curso de Análise e Desenvolvimento de Sistemas (SENAC)
@@ -8,9 +8,9 @@
 - Diante disso, a equipe optou por redirecionar seus esforços para um novo produto mais viável e igualmente relevante: ProjectFy, um gerenciador de projetos. 
 - O ProjectFy nasce com o objetivo de facilitar a organização, o acompanhamento de tarefas e a produtividade de equipes, oferecendo uma solução prática e eficiente para quem precisa gerenciar projetos com agilidade e controle. 
 
-## Público-alvo do ProjectFy
+## Público-alvo do ProjectiFy
 
-O ProjectFy é voltado para profissionais e equipes que precisam organizar e acompanhar o progresso de múltiplos projetos. Nosso foco principal está em: 
+O ProjectiFy é voltado para profissionais e equipes que precisam organizar e acompanhar o progresso de múltiplos projetos. Nosso foco principal está em: 
 
 - Freelancers e profissionais autônomos que lidam com diversos clientes simultaneamente. 
 
@@ -20,7 +20,7 @@ O ProjectFy é voltado para profissionais e equipes que precisam organizar e aco
 
 - Estudantes e grupos acadêmicos que precisam coordenar trabalhos em grupo e dividir responsabilidades. 
 
-##  Jornada do Usuário no ProjectFy 
+##  Jornada do Usuário no ProjectiFy 
 
 Criação de um novo projeto 
  
@@ -70,7 +70,7 @@ Muitos projetos simultâneos com prazos diferentes.
 
 Dificuldade em visualizar o que está em andamento e o que está atrasado. 
 
-- Como o ProjectFy ajuda: 
+- Como o ProjectiFy ajuda: 
 
 Mariana cria categorias como "Clientes", "Pessoal" e "Estudos". 
 
@@ -94,7 +94,7 @@ Comunicação fragmentada entre membros.
 
 Falta de clareza sobre quem está responsável por cada tarefa. 
 
-- Como o ProjectFy ajuda: 
+- Como o ProjectiFy ajuda: 
 
 Rodrigo cria projetos e atribui tarefas com prazos e responsáveis. 
 
@@ -104,7 +104,7 @@ Organiza os projetos por categoria (Ex: Frontend, Backend, UX).
 
  
 
-## Preparação do Ambiente de Desenvolvimento – ProjectFy
+## Preparação do Ambiente de Desenvolvimento – ProjectiFy
 
 O ProjectFy é um sistema CRUD (Create, Read, Update, Delete) que permite gerenciar projetos de forma simples e organizada.  
 

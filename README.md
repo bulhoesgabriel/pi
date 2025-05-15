@@ -134,10 +134,12 @@ Foi criada uma interface funcional para:
 
 O backend do Projectify foi desenvolvido em Node.js utilizando Express para gerenciar rotas e um arquivo .json como banco de dados simulado. Esse arquivo está hospedado na plataforma Render, permitindo que o frontend faça requisições via API. Toda a aplicação, incluindo o frontend em React, está hospedada no Vercel, garantindo integração e funcionamento completo do sistema. 
 
-## Video do projeto funcionando
+## Link e Video do projeto funcionando
 
-Link aqui:
+🔗 Link do projeto: https://projectify-green.vercel.app
+🔗 Link do vídeo: 
 
+## Instruções ao baixar o repositório
 No diretório do projeto, execute este comando no terminal para rodar o aplicativo em modo de desenvolvimento:
 ```sh 
 npm run start-all

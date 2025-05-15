@@ -130,11 +130,11 @@ Foi criada uma interface funcional para:
 
 - Filtrar por categorias. 
 
-#### Desenvolvimento do Backend do projeto (com repositório de dados associado). 
+## Desenvolvimento do Backend do projeto (com repositório de dados associado). 
 
 O backend do Projectify foi desenvolvido em Node.js utilizando Express para gerenciar rotas e um arquivo .json como banco de dados simulado. Esse arquivo está hospedado na plataforma Render, permitindo que o frontend faça requisições via API. Toda a aplicação, incluindo o frontend em React, está hospedada no Vercel, garantindo integração e funcionamento completo do sistema. 
 
-##Video do projeto funcionando
+## Video do projeto funcionando
 
 Link aqui:
 

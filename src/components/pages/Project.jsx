@@ -14,6 +14,7 @@ import ProjectForm from '../project/ProjectForm'
 
 import ServiceForm from '../service/ServiceForm'
 import ServiceCard from '../service/ServiceCard'
+import { API_BASE_URL } from '../../config'
 
 function Project() {
 
@@ -30,7 +31,7 @@ function Project() {
 
         setTimeout(() =>{
 
-            fetch(`http://localhost:5000/projects/${id}`, {
+            fetch(`${API_BASE_URL}/projects/${id}`, {
                 method: 'GET',
                 headers: {
                     'Content-type': 'application/json',
@@ -55,7 +56,7 @@ function Project() {
             return false
         }
 
-        fetch(`http://localhost:5000/projects/${project.id}`, {
+        fetch(`${API_BASE_URL}/projects/${project.id}`, {
             method: 'PATCH',
             headers: { 'Content-type': 'application/json',
             },
@@ -93,7 +94,7 @@ function Project() {
         project.cost = newCost
 
         //update project
-        fetch(`http://localhost:5000/projects/${project.id}`, {
+        fetch(`${API_BASE_URL}/projects/${project.id}`, {
             method: 'PATCH',
             headers: {
                 'Content-type': 'application/json',
@@ -117,7 +118,7 @@ function Project() {
         projectUpdated.services = servicesUpdated
         projectUpdated.cost = parseFloat(projectUpdated.cost) - parseFloat(cost)
 
-        fetch(`http://localhost:5000/projects/${projectUpdated.id}`, {
+        fetch(`${API_BASE_URL}/projects/${projectUpdated.id}`, {
             method: 'PATCH',
             headers: {
                 'Content-type': 'application/json',

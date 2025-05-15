@@ -10,6 +10,7 @@ import Loading from '../layout/Loading'
 import LinkButton from '../layout/LinkButton'
 
 import ProjectCard from '../project/ProjectCard'
+import { API_BASE_URL } from '../../config'
 
 function Projects() {
 
@@ -29,7 +30,7 @@ function Projects() {
 
         setTimeout(() => {
 
-            fetch('http://localhost:5000/projects', {
+            fetch(`${API_BASE_URL}/projects`, {
                 method: 'GET',
                 headers: {
                     'Content-type': 'application/json',
@@ -48,7 +49,7 @@ function Projects() {
 
     function removeProject(id) {
 
-        fetch(`http://localhost:5000/projects/${id}`, {
+        fetch(`${API_BASE_URL}/projects/${id}`, {
             method: 'DELETE',
             headers: {
                 'Content-type': 'application/json',

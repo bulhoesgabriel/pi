@@ -3,7 +3,7 @@
 <br>
 Aplicativo para gestão de projetos desenvolvido em React.js & Node.js <br>
 <br>
-Atividade avaliativa (Projeto Integrador) do curso de Análise e Desenvolvimento de Sistemas da instituição SENAC
+Atividade avaliativa (Projeto Integrador) do curso de Análise e Desenvolvimento de Sistemas (SENAC) <br>
 <br>
 No diretório do projeto, execute este comando no terminal para rodar o aplicativo em modo de desenvolvimento:<br>
 <br>

@@ -30,7 +30,7 @@ function Projects() {
 
         setTimeout(() => {
 
-            fetch(`${API_BASE_URL}projects`, {
+            fetch(`${API_BASE_URL}/projects`, {
                 method: 'GET',
                 headers: {
                     'Content-type': 'application/json',

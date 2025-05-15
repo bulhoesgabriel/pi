@@ -76,7 +76,7 @@ Mariana cria categorias como "Clientes", "Pessoal" e "Estudos".
 
 Ela cadastra cada projeto e consegue ver rapidamente o status de cada um. 
 
-Usa o ProjectFy diariamente para revisar o que precisa ser entregue. 
+Usa o ProjectiFy diariamente para revisar o que precisa ser entregue. 
 
  
 
@@ -106,7 +106,7 @@ Organiza os projetos por categoria (Ex: Frontend, Backend, UX).
 
 ## Preparação do Ambiente de Desenvolvimento – ProjectiFy
 
-O ProjectFy é um sistema CRUD (Create, Read, Update, Delete) que permite gerenciar projetos de forma simples e organizada.  
+O ProjectiFy é um sistema CRUD (Create, Read, Update, Delete) que permite gerenciar projetos de forma simples e organizada.  
 
 A arquitetura do ProjectiFy segue o modelo cliente-servidor. O frontend em React se comunica com uma API backend feita em Node.js, que manipula dados armazenados em um arquivo .json. O backend está hospedado no Render, e o arquvo completo no Vercel, garantindo uma separação clara entre interface e lógica de dados, com integração simples e eficiente para a prova de conceito. 
 
@@ -132,7 +132,7 @@ Foi criada uma interface funcional para:
 
 ## Desenvolvimento do Backend do projeto (com repositório de dados associado). 
 
-O backend do Projectify foi desenvolvido em Node.js utilizando Express para gerenciar rotas e um arquivo .json como banco de dados simulado. Esse arquivo está hospedado na plataforma Render, permitindo que o frontend faça requisições via API. Toda a aplicação, incluindo o frontend em React, está hospedada no Vercel, garantindo integração e funcionamento completo do sistema. 
+O backend do Projectify foi desenvolvido em Node.js e um arquivo .json como banco de dados simulado. Esse arquivo está hospedado na plataforma Render, permitindo que o frontend faça requisições via API. Toda a aplicação, incluindo o frontend em React, está hospedada no Vercel, garantindo integração e funcionamento completo do sistema. 
 
 ## Link e Video do projeto funcionando
 

@@ -56,7 +56,7 @@ Finalização e acompanhamento
 
 - Receber lembretes e alertas de prazos (futuro). 
 
-# Persona 1: Mariana, a Freelancer de Design 
+## Persona 1: Mariana, a Freelancer de Design 
 
 Idade: 29 anos 
 
@@ -80,7 +80,7 @@ Usa o ProjectFy diariamente para revisar o que precisa ser entregue.
 
  
 
-# Persona 2: Rodrigo, o Coordenador de Equipe 
+## Persona 2: Rodrigo, o Coordenador de Equipe 
 
 Idade: 35 anos 
 
@@ -150,9 +150,9 @@ http://localhost:3000
 
 ## Integrantes
 
-Ariel Medeiros
-Felipe Lemos
-Gabriel Bulhões
+- Ariel Medeiros
+- Felipe Lemos
+- Gabriel Bulhões
 
 **Atividade avaliativa (Projeto Integrador) do curso de Análise e Desenvolvimento de Sistemas (SENAC-SP)!**
 

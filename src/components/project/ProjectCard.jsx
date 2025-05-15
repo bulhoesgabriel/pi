@@ -4,6 +4,8 @@ import styles from './ProjectCard.module.css'
 
 import {BsPencil, BsFillTrashFill} from 'react-icons/bs'
 
+//420ganjahparadise
+
 function ProjectCard({id, name, budget, category, handleRemove}) {
 
     const remove = (e) => {

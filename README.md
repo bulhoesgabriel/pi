@@ -6,7 +6,7 @@
 
 - O projeto FileTransfer passou por uma reformulação estratégica. Inicialmente concebido como uma plataforma para transferência gratuita de arquivos, o projeto mostrou-se inviável no curto prazo devido à sua complexidade técnica e à ausência do investimento necessário para garantir a infraestrutura de armazenamento segura e escalável para todos os usuários. 
 - Diante disso, a equipe optou por redirecionar seus esforços para um novo produto mais viável e igualmente relevante: ProjectFy, um gerenciador de projetos. 
-- O ProjectFy nasce com o objetivo de facilitar a organização, o acompanhamento de tarefas e a produtividade de equipes, oferecendo uma solução prática e eficiente para quem precisa gerenciar projetos com agilidade e controle. 
+- O ProjectiFy nasce com o objetivo de facilitar a organização, o acompanhamento de tarefas e a produtividade de equipes, oferecendo uma solução prática e eficiente para quem precisa gerenciar projetos com agilidade e controle. 
 
 ## Público-alvo do ProjectiFy
 
@@ -136,8 +136,8 @@ O backend do Projectify foi desenvolvido em Node.js utilizando Express para gere
 
 ## Link e Video do projeto funcionando
 
-🔗 Link do projeto: https://projectify-green.vercel.app
-🔗 Link do vídeo: 
+- 🔗 Link do projeto: https://projectify-green.vercel.app
+- 🔗 Link do vídeo: https://drive.google.com/file/d/1MMXk1FTxG4hjbT93albwvI5hOH5ymYhd/view?usp=sharing
 
 ## Instruções ao baixar o repositório
 No diretório do projeto, execute este comando no terminal para rodar o aplicativo em modo de desenvolvimento:

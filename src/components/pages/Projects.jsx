@@ -74,7 +74,7 @@ function Projects() {
             <Container customClass="start">
                 {projects.length > 0 &&
                     projects.map((project) => (
-                        <ProjectCard id={project.id} name={project.name} budget={project.budget} category={project.category.name} key={project.id} handleRemove={removeProject} />
+                        <ProjectCard id={project.id} name={project.name} budget={project.budget} category={project?.category?.name || "Sem categoria"} key={project.id} handleRemove={removeProject} />
                     ))}
                 {!removeLoading && <Loading />}
                 {removeLoading && projects.length === 0 && (

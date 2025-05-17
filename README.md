@@ -155,6 +155,9 @@ http://localhost:3000
 - Ariel Medeiros
 - Felipe Lemos
 - Gabriel Bulhões
+- Andrius Gottems
+- Carlos Augusto Praeiro
+- Diogo Araujo Freitas
 
 **Atividade avaliativa (Projeto Integrador) do curso de Análise e Desenvolvimento de Sistemas (SENAC-SP)!**
 
